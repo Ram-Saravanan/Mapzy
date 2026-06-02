@@ -99,7 +99,7 @@ The project was developed to address the lack of accessible safety-focused navig
 
 ### User Profile & Gamification
 
-<img src="pic/user-profile-gamification.png" alt="User Profile & Gamification" width="420" /
+<img src="pic/user-profile-gamification.png" alt="User Profile & Gamification" width="420" />
 
 ### Hazard Reporting
 
