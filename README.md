@@ -9,7 +9,7 @@ Video - https://drive.google.com/drive/folders/19NsxZvnwm3R7bOVyOWV3sTi2Zs3RL2Kt
 
 ---
 
-## 🎯 What We Provide
+## What We Provide
 
 **AI-powered hazard detection** that delivers personalized **real-time alerts** for speed cameras and road hazards to prevent violations and accidents.
 
@@ -27,7 +27,7 @@ Video - https://drive.google.com/drive/folders/19NsxZvnwm3R7bOVyOWV3sTi2Zs3RL2Kt
 
 ---
 
-## 🏆 Where We Stand Out
+## Where We Stand Out
 
 ### 1. Navigation + Safety in One App
 Unlike free Radarbot that needs Google Maps separately, we combine turn-by-turn directions with camera alerts in one screen. **No app switching required.**
@@ -41,10 +41,10 @@ Alerts trigger only when you're within **500m AND driving towards** the camera o
 - Obstacles
 
 ### 3. Gamification with Spam Protection
-- 🏅 Earn badges, points, and leaderboard rankings for accurate reports
-- 👍👎 Upvote/downvote system removes fake reports
-- 🚫 Spammers lose points and get blocked
-- ⭐ Trusted reporters get public recognition
+- Earn badges, points, and leaderboard rankings for accurate reports
+- Upvote/downvote system removes fake reports
+- Spammers lose points and get blocked
+- Trusted reporters get public recognition
 
 ### 4. Voice + Color Speed Warnings
 Large display with **Green → Orange → Red** color changes as you speed. Voice warns: *"Speeding: 75 in 60 zone"* without looking at screen.
@@ -66,7 +66,7 @@ Navigation, alerts, voice, reports, heatmaps, gamification - **free forever.**
 - **Search History** - Saved searches for logged-in users
 
 
-## 💡 Problem We Solve
+## Problem We Solve
 
 **Road safety and legal compliance** - Helps drivers:
 - Stay within speed limits
@@ -126,5 +126,5 @@ This project demonstrates:
 - ✅ **Real-world impact** - Promotes road safety and legal compliance
 - ✅ **Technical excellence** - Clean architecture, modern web technologies
 - ✅ **User engagement** - Gamification drives community participation
-- ✅ **Scalability** - Cloud-based architecture (Firebas+ )
+- ✅ **Scalability** - Cloud-based architecture (Firebase+ )
 - ✅ **Innovation** - Combines navigation + safety in one free app
