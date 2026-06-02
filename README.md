@@ -6,7 +6,7 @@ AI-powered navigation and road safety platform that combines turn-by-turn naviga
 
 ## Overview
 
-Mapzy is a navigation application designed to help drivers make safer decisions through real-time hazard visibility and community-sourced road intelligence. The platform integrates routing, hazard reporting, nearby place discovery, and gamification into a single user experience.
+Mapzy is a navigation application designed to help drivers make safer decisions through real-time hazard visibility and community-sourced road intelligence. The platform integrates routing, hazard reporting, nearby place discovery, and gamification into a single user experience!
 
 The project was developed to address the lack of accessible safety-focused navigation tools that provide both route guidance and contextual road information.
 
